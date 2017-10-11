@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Mahasiswa</string>
+    <string-array name="nama_mahasiswa">
+        <item>Bayu</item>
+        <item>Fur</item>
+        <item>Mika</item>
+        <item>Btari</item>
+        <item>Syams</item>
+        <item>Salmah</item>
+    </string-array>
+    <string-array name="IPK">
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>4.0</item>
+        <item>3.5</item>
+        <item>4.0</item>
+        <item>3.8</item>
+    </string-array>
+</resources>
